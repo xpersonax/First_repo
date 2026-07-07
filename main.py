@@ -1,1 +1,3 @@
-print("Hellow world!")
+print("Hello, World!")
+
+print("Hello, Git!")
